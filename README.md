@@ -1,5 +1,5 @@
 # Khaleesi
-[![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff)](https://golang.org/)[![Go Coverage](https://github.com/cauchy2384/khaleesi/wiki/coverage.svg)](https://raw.githack.com/wiki/cauchy2384/khaleesi/coverage.html)
+[![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff)](https://golang.org/)
 
 Библиотека, которая позволяет передразнивать сообщения в стиле мема "Кхалиси передразнивает". 
 
